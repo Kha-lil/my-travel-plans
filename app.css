@@ -54,6 +54,15 @@ h2 {
 #paris {
   background-color: #d32f2f;
 }
+#chicago {
+  background-color: #55d32f;
+}
+#california {
+  background-color: #b82fd3;
+}
+#dubai {
+  background-color: #c2d32f;
+}
 
 .destination:hover h2 {
     transform: rotate(0deg);
